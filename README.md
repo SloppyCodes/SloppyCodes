@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SloppyCodes
 - 👀 I’m interested in coding (obviously)
-- 🌱 I’m currently learning Dart and Flutter
 - 📫 You acn reach me at https://sloppycodes.com
 
 <!---
